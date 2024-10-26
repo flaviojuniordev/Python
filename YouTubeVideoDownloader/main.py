@@ -1,7 +1,7 @@
 from yt_dlp import YoutubeDL
 
 # URL do vídeo
-url = 'https://www.youtube.com/watch?v=PCJ02veFgfg&t=26s'
+url = 'cole sua url aqui'
 
 # Configurações de download
 ydl_opts = {
