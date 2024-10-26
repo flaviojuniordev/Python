@@ -45,9 +45,6 @@ pip3 install yt-dlp
 
 A interface gráfica permite que o usuário insira o link do vídeo, visualize e inicie o download com um clique. Para usar, basta iniciar o programa e colar o link do YouTube no campo designado.
 
-<img src="../imgs/interfacevideodownload-1.jpg">
-<img src="../imgs/interfacevideodownload-2.jpg">
-
 ### Capturas de Tela
 
 Aqui você pode adicionar capturas de tela da interface para ilustrar como utilizá-la:
@@ -55,7 +52,10 @@ Aqui você pode adicionar capturas de tela da interface para ilustrar como utili
 - **Tela Inicial**: Campo para inserir o link do vídeo e botão de download.
 - **Tela de Progresso**: Exibe o progresso do download.
 
-> **Nota**: Cole os prints da interface aqui.
+| ![Tela Inicial](../imgs/interfacevideodownload-1.jpg) | ![Tela de Progresso](../imgs/interfacevideodownload-2.jpg) |
+|:--:|:--:|
+| Tela Inicial | Tela de Progresso |
+
 
 ## Uso
 
