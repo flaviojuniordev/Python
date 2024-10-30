@@ -2,12 +2,12 @@
 from yt_dlp import YoutubeDL
 from tkinter import messagebox
 import threading
-from interface import create_interface  
+from interface import create_interface
 
 # Configuração de opções de download do YouTube
 ydl_opts = {
     "format": "bestvideo[height<=1080]+bestaudio/best",
-    "outtmpl": "YoutubeVideoDownloaderV2/videos/%(title)s.%(ext)s",
+    "outtmpl": "YoutubeVideoDownloader/videos/%(title)s.%(ext)s",
     "merge_output_format": "mp4",
 }
 
