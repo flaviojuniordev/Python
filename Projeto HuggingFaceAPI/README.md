@@ -49,10 +49,6 @@ Para usar a API do Hugging Face, você precisará criar um token de autenticaç�
 
 Depois de obter seu token, você precisa integrá-lo ao seu código no arquivo `app.py`. Encontre a linha:
 
-```python
-headers = {"Authorization": "Bearer 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"}
-```
-
 Substitua pelo seu token copiado:
 
 ```python
