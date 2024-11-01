@@ -5,7 +5,7 @@ from tkinter import messagebox
 
 # URL e headers para a API
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer hf_coloqueseutokenaqui"}
 
 
 # Função para consultar a API
