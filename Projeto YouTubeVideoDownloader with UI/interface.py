@@ -66,7 +66,7 @@ def create_interface(start_download):
     )
     download_button.pack(pady=20)
 
-    # Execução da interface
+    # Execução da interfaces
     window.mainloop()
 
 
